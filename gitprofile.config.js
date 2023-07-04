@@ -24,7 +24,7 @@ const config = {
     stackoverflow: '', // example: '1/jeff-atwood'
     skype: '',
     telegram: '',
-    website: '',
+    website: 'https://dharmateja176.github.io/',
     phone: '',
     email: 'dharmateja.176@gmail.com',
   },
@@ -37,22 +37,22 @@ const config = {
     'MySQL',
     'Git',
   ],
-  experiences: [
-    {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
-      to: 'Present',
-      companyLink: 'https://example.com',
-    },
-    {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
-    },
-  ],
+  // experiences: [
+  //   {
+  //     company: 'Company Name',
+  //     position: 'Position',
+  //     from: 'September 2021',
+  //     to: 'Present',
+  //     companyLink: 'https://example.com',
+  //   },
+  //   {
+  //     company: 'Company Name',
+  //     position: 'Position',
+  //     from: 'July 2019',
+  //     to: 'August 2021',
+  //     companyLink: 'https://example.com',
+  //   },
+  // ],
   /* certifications: [
     {
       name: 'Lorem ipsum',
@@ -63,16 +63,10 @@ const config = {
   ], */
   education: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
-    },
-    {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      institution: 'Sreenidhi Institute of Science and Technology',
+      degree: 'B.Tech',
+      from: '2020',
+      to: '2023',
     },
   ],
 
